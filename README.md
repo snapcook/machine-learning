@@ -3,7 +3,7 @@
 **Note**: please run this code on Google Colabs
 ## **About model**
 
-This model is built using the **[TensorFlow Lite Model Maker]**(https://www.tensorflow.org/lite/guide/model_maker) library from **Tensorflow** for Object Detection task, more info [here](https://www.tensorflow.org/lite/models/modify/model_maker/object_detection). The notebook is using EfficientDet-Lite2 as the model architecture for train.
+This model is built using the [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/guide/model_maker) library from **Tensorflow** for Object Detection task, more info [here](https://www.tensorflow.org/lite/models/modify/model_maker/object_detection). The notebook is using EfficientDet-Lite2 as the model architecture for train.
 
 ## **Latest version**
 
