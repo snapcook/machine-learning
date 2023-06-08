@@ -34,7 +34,6 @@ val_data = object_detector.DataLoader.from_pascal_voc(
 
 print("There's {} images on train dataset".format(len(train_data)))
 print("There's {} images on validation dataset".format(len(val_data)))
-print("There's {} images on test dataset".format(len(test_data)))
 ########
 
 ######## Get model spec
